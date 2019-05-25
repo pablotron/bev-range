@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# not used, because the results look terrible
+
 import csv
 import sys
 import numpy as np

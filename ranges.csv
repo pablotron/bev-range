@@ -1,0 +1,204 @@
+make,model,year,range
+Tesla,Model S Long Range,2019,370
+Tesla,"Model S Performance (19"" Wheels)",2019,345
+Tesla,Model S 100D,2019,335
+Tesla,Model S 100D,2018,335
+Tesla,Model S AWD - 100D,2017,335
+Tesla,"Model S Performance (21"" Wheels)",2019,325
+Tesla,Model S P100D,2019,315
+Tesla,Model S P100D,2018,315
+Tesla,Model S AWD - P100D,2017,315
+Tesla,Model S AWD - P100D,2016,315
+Tesla,Model 3 Long Range,2019,310
+Tesla,Model 3 Long Range AWD,2019,310
+Tesla,Model 3 Long Range AWD Performance,2019,310
+Tesla,Model 3 Long Range,2018,310
+Tesla,Model 3 Long Range  AWD,2018,310
+Tesla,Model 3 Long Range  AWD Performance,2018,310
+Tesla,Model 3 Long Range,2017,310
+Tesla,Model X 100D,2019,295
+Tesla,Model X 100D,2018,295
+Tesla,Model X AWD - 100D,2017,295
+Tesla,Model S AWD - 90D,2017,294
+Tesla,Model S AWD - 90D,2016,294
+Tesla,Model X P100D,2019,289
+Tesla,Model X P100D,2018,289
+Tesla,Model X AWD - P100D,2017,289
+Tesla,Model X AWD - P100D,2016,289
+Tesla,Model S AWD - P90D,2017,270
+Tesla,Model S AWD - 85D,2016,270
+Tesla,Model S AWD - P90D,2016,270
+Tesla,Model S AWD - 85D,2015,270
+Tesla,Model S AWD - 90D,2015,270
+Tesla,Model S (85 kW-hr battery pack),2016,265
+Tesla,Model S (90 kW-hr battery pack),2016,265
+Tesla,Model S (85 kW-hr battery pack),2015,265
+Tesla,Model S (90 kW-hr battery pack),2015,265
+Tesla,Model S (85 kW-hr battery pack),2014,265
+Tesla,Model S (85 kW-hr battery pack),2013,265
+Tesla,Model S,2012,265
+Tesla,Model 3 Mid Range,2019,264
+Tesla,Model 3 Mid Range,2018,260
+Tesla,Model S 75D,2019,259
+Tesla,Model S 75D,2018,259
+Tesla,Model S AWD - 75D,2017,259
+Tesla,Model S AWD - 75D,2016,259
+Hyundai,Kona Electric,2019,258
+Tesla,Model X AWD - 90D,2017,257
+Tesla,Model X AWD - 90D,2016,257
+Tesla,Model S AWD - P85D,2016,253
+Tesla,Model S AWD - P85D,2015,253
+Tesla,Model S AWD - P90D,2015,253
+Tesla,Model X AWD - P90D,2017,250
+Tesla,Model X AWD - P90D,2016,250
+Tesla,Model S 75kWh,2018,249
+Tesla,Model S (75 kW-hr battery pack),2017,249
+Tesla,Model S (75 kW-hr battery pack),2016,249
+Kia,Soul Electric,2020,243
+Tesla,Model S AWD (85 kW-hr battery pack),2014,242
+Tesla,Model 3 Standard Range Plus,2019,240
+Tesla,Model S AWD - 70D,2016,240
+Tesla,Model S AWD - 70D,2015,240
+Kia,Niro Electric,2019,239
+Chevrolet,Bolt EV,2019,238
+Tesla,Model X 75D,2019,238
+Chevrolet,Bolt EV,2018,238
+Tesla,Model X 75D,2018,238
+Chevrolet,Bolt EV,2017,238
+Tesla,Model X AWD - 75D,2017,238
+Tesla,Model X AWD - 75D,2016,238
+Jaguar,I-Pace,2020,234
+Jaguar,I-Pace,2019,234
+Tesla,Model S (70 kW-hr battery pack),2016,234
+Nissan,Leaf (62 kW-hr battery pack),2019,226
+Tesla,Model 3 Standard Range,2019,220
+Tesla,Model S AWD - 60D,2017,218
+Tesla,Model S AWD - 60D,2016,218
+Nissan,Leaf SV/SL (62 kW-hr battery pack),2019,215
+Tesla,Model S (60 kW-hr battery pack),2017,210
+Tesla,Model S (60 kW-hr battery pack),2016,210
+Tesla,Model S (60 kW-hr battery pack),2015,208
+Tesla,Model S (60 kW-hr battery pack),2014,208
+Tesla,Model S (60 kW-hr battery pack),2013,208
+Audi,e-tron,2019,204
+Tesla,Model X AWD - 60D,2017,200
+Tesla,Model X AWD - 60D,2016,200
+BYD,e6,2019,187
+BYD,e6,2018,187
+BYD,e6,2017,187
+BYD,e6,2016,187
+BMW,i3,2019,153
+BMW,i3s,2019,153
+Nissan,Leaf,2018,151
+Nissan,Leaf (40 kW-hr battery pack),2019,150
+Tesla,Model S (40 kW-hr battery pack),2013,139
+BYD,e6,2014,127
+BYD,e6,2013,127
+Volkswagen,e-Golf,2019,125
+Volkswagen,e-Golf,2018,125
+Volkswagen,e-Golf,2017,125
+Hyundai,Ioniq Electric,2019,124
+Hyundai,Ioniq Electric,2018,124
+Hyundai,Ioniq Electric,2017,124
+BYD,e6,2012,122
+Ford,Focus Electric,2018,115
+Ford,Focus Electric,2017,115
+BMW,i3 (94Ah),2018,114
+BMW,i3 BEV (94 Amp-hour battery),2017,114
+Kia,Soul Electric,2019,111
+Kia,Soul Electric,2018,111
+BMW,i3s (94Ah),2018,107
+Nissan,Leaf,2017,107
+Nissan,Leaf (30 kW-hr battery pack),2016,107
+GMC,EV1,1999,105
+Toyota,RAV4 EV,2014,103
+Toyota,RAV4 EV,2013,103
+Toyota,RAV4 EV,2012,103
+MINI,MiniE,2008,100
+Toyota,RAV4 EV,2003,95
+Toyota,RAV4 EV,2002,95
+BMW,Active E,2011,94
+Kia,Soul Electric,2017,93
+Kia,Soul Electric,2016,93
+Kia,Soul Electric,2015,93
+Nissan,Altra EV,2000,90
+Honda,Clarity EV,2019,89
+Honda,Clarity EV,2018,89
+Honda,Clarity EV,2017,89
+CODA Automotive,CODA,2013,88
+CODA Automotive,CODA,2012,88
+Toyota,RAV4 EV,2001,88
+Toyota,RAV4 EV,2000,88
+Mercedes-Benz,B250e,2017,87
+Mercedes-Benz,B250e,2016,87
+Fiat,500e,2015,87
+Mercedes-Benz,B-Class Electric Drive,2015,87
+Fiat,500e,2014,87
+Mercedes-Benz,B-Class Electric Drive,2014,87
+Fiat,500e,2013,87
+Fiat,500e,2019,84
+Fiat,500e,2018,84
+Fiat,500e,2017,84
+Nissan,Leaf (24 kW-hr battery pack),2016,84
+Fiat,500e,2016,84
+Nissan,Leaf,2015,84
+Nissan,Leaf,2014,84
+Volkswagen,e-Golf,2016,83
+Volkswagen,e-Golf,2015,83
+Chevrolet,Spark EV,2016,82
+Chevrolet,Spark EV,2015,82
+Chevrolet,Spark EV,2014,82
+Honda,Fit EV,2014,82
+Honda,Fit EV,2013,82
+BMW,i3 BEV (60  Amp-hour battery),2017,81
+BMW,i3 BEV,2016,81
+BMW,i3 BEV,2015,81
+BMW,i3 BEV,2014,81
+Honda,EV Plus,1999,81
+Honda,EV Plus,1998,81
+Ford,Focus Electric,2016,76
+Ford,Focus Electric,2015,76
+Ford,Focus Electric,2014,76
+Ford,Focus Electric,2013,76
+Ford,Focus Electric,2012,76
+Nissan,Leaf,2013,75
+Nissan,Leaf,2012,73
+Nissan,Leaf,2011,73
+Chevrolet,S10 Electric,1998,72
+Dodge,Caravan/Grand Caravan 2WD,1999,70
+Plymouth,Voyager/Grand Voyager 2WD,1999,70
+smart,fortwo electric drive convertible,2016,68
+smart,fortwo electric drive coupe,2016,68
+smart,fortwo electric drive convertible,2015,68
+smart,fortwo electric drive coupe,2015,68
+smart,fortwo electric drive convertible,2014,68
+smart,fortwo electric drive coupe,2014,68
+smart,fortwo electric drive convertible,2013,68
+smart,fortwo electric drive coupe,2013,68
+Ford,Ranger Pickup 2WD,2000,65
+smart,fortwo electric drive cabriolet,2011,63
+smart,fortwo electric drive coupe,2011,63
+Mitsubishi,i-MiEV,2016,62
+Mitsubishi,i-MiEV,2014,62
+Mitsubishi,i-MiEV,2013,62
+Mitsubishi,i-MiEV,2012,62
+Mitsubishi,i-MiEV,2017,59
+smart,EQ fortwo (coupe),2019,58
+smart,fortwo electric drive coupe,2018,58
+smart,fortwo electric drive coupe,2017,58
+smart,EQ fortwo (convertible),2019,57
+smart,fortwo electric drive convertible,2018,57
+smart,fortwo electric drive convertible,2017,57
+Azure Dynamics,Transit Connect Electric Van,2012,56
+Azure Dynamics,Transit Connect Electric Wagon,2012,56
+GMC,EV1,1999,55
+Ford,Ranger Pickup 2WD,1999,55
+Ford,Ranger Pickup 2WD,2001,50
+Ford,Ranger Pickup 2WD,2000,50
+Ford,Ranger Pickup 2WD,1999,50
+Scion,iQ EV,2013,38
+Ford,Explorer USPS Electric,2002,38
+Ford,Explorer USPS Electric,2001,38
+Nissan,Hyper-Mini,2001,33
+Chevrolet,S10 Electric,1998,33
+Ford,Th!nk,2001,29

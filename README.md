@@ -17,3 +17,5 @@ The data is current as of 2019-05-25.
 7. Save as `range-years.csv`.
 8. Limited to currently sold vehicles and save as range-years-current.csv`.
 9. Save as `range-years-current.csv`.
+10. ./plot.py range-years-current.csv chart,svg
+11. convert -antialias -scale 1024x1024 chart.{svg,png}
